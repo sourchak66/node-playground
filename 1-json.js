@@ -1,4 +1,4 @@
-import fs from "fs"
+import fs from "fs";
 
 // const book = {
 //     title : "Ego Is The Enemy",
